@@ -1,10 +1,16 @@
 _repo: Der-Satansgedanke_49940
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49940-h/images/cover.jpg
 creator:
   author:
     agent_name: Bartsch, Rudolf Hans
     gutenberg_agent_id: '45625'
     url: http://www.gutenberg.org/2009/agents/45625
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49940#Der-Satansgedanke
 gutenberg_issued: '2015-09-11'
 gutenberg_type: Text
 identifiers:
